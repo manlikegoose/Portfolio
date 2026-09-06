@@ -1,10 +1,9 @@
-import React from 'react'
 import C from '../assets/images/C++.svg'
 import Python from '../assets/images/Python.svg'
 import javascript from '../assets/images/javascript.svg'
 import Tailwind from '../assets/images/Tailwind.svg'
 import ReactLogo from '../assets/images/React.svg'
-import typescript from '../assets/images/typescript.svg'
+import typescript from '../assets/images/Typescript.svg'
 import Git from '../assets/images/Git.svg'
 
 
