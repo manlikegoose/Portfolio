@@ -5,7 +5,7 @@ export default function Type() {
   return (
     <Typewriter
     options={{
-      strings: ["Student | Tech Enthusiast | Web Developer - front-end "],
+      strings: ["Student | Tech Enthusiast | software Developer "],
       autoStart: true,
       loop: true,
       deleteSpeed: 50,
